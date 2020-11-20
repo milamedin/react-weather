@@ -1,5 +1,5 @@
 
-![] (src/assets/cold.jpg)
+![](src/assets/cold.jpg)
 
 # Getting Started with Create React App
 
