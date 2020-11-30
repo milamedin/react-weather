@@ -2,13 +2,7 @@
 ## Application Screenshots
 
 
-![](src/assets/hotex.jpg)
-
-
-![](src/assets/coldex.jpg)
-
-
-![](src/assets/mediumex.jpg)
+![](src/assets/hotex.jpg)   ![](src/assets/coldex.jpg)   ![](src/assets/mediumex.jpg)
 
 
 # Getting Started with Create React App
