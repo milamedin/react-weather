@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState } from 'ract';
 const api = {
   key: "1d4e6e7a492d973e6102e0714179d73d",
   base: "https://api.openweathermap.org/data/2.5/"
